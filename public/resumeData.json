@@ -2,20 +2,20 @@
   "main": {
     "name":"Agustin Vazquez",
     "occupation":"React Native Developer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"My desire is to improve the way of living of people by developing innovative mobile products",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I started mobile development back on 2011, when only a native approach (Java / Obj-C) was possible for building mobile apps. On 2018 I discovered React Native and continued working until today. During my career, I have also worked with databases, AWS, APIs and small websites (this site is hosted in AWS using a cloudfront and static website in S3). In my free time I usually play videogames with friends and cook.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "aguss.vazquez@gmail.com",
-    "phone": "555-555-5555",
+    "phone": "-",
     "address":{
-      "street":"",
+      "street":"Almagro",
       "city":"Buenos Aires",
       "state":"Argentina",
-      "zip": ""
+      "zip": "1175"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.agustinvazquez.com",
+    "resumedownload":"/files/CV.docx",
     "social":[
       {
         "name":"facebook",
@@ -44,19 +44,25 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"My focus is primarily on mobile, but also have skills in other areas.",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Universidad Tecnológica Nacional",
+        "degree":"Project Manager Expert",
+        "graduated":"2017",
+        "description":""
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Universidad de Buenos Aires",
+        "degree":"Software Engineering",
+        "graduated":"Abandoned in 4th year",
+        "description":""
+      },
+      {
+        "school":"High School ORT",
+        "degree":"Information and Communication Technology",
+        "graduated":"2007",
+        "description":""
       }
     ],
     "work":[
@@ -75,32 +81,52 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"React Native",
+        "level":"95%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"Android",
         "level":"90%"
       },
       {
-        "name":"HTML5",
+        "name":"iOS",
+        "level":"85%"
+      },
+      {
+        "name":"CI/CD (Bitrise)",
+        "level":"95%"
+      },
+      {
+        "name":"Automated Testing",
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"Firebase",
+        "level":"95%"
+      },
+      {
+        "name":"Spring Framework",
+        "level":"60%"
+      },
+      {
+        "name":"AWS",
+        "level":"30%"
+      },
+      {
+        "name":"MySQL",
         "level":"50%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"GIT",
+        "level":"70%"
+      },
+      {
+        "name":"Project Management - Scrum",
+        "level":"40%"
+      },
+      {
+        "name":"Unity 3D",
+        "level":"40%"
       }
     ]
   },
