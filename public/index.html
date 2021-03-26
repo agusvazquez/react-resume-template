@@ -33,5 +33,27 @@
    <script src="js/magnific-popup.js"></script>
    <script src="js/init.js"></script>
 
+   <!-- The core Firebase JS SDK is always required and must be listed first -->
+  <script src="https://www.gstatic.com/firebasejs/8.3.1/firebase-app.js"></script>
+
+  <!-- TODO: Add SDKs for Firebase products that you want to use
+      https://firebase.google.com/docs/web/setup#available-libraries -->
+  <script src="https://www.gstatic.com/firebasejs/8.3.1/firebase-analytics.js"></script>
+
+  <script>
+    var firebaseConfig = {
+      apiKey: "AIzaSyD4Ep73oUFh2aiDH9a-DU_qVkesd4z0qvU",
+      authDomain: "personal-website-bed68.firebaseapp.com",
+      projectId: "personal-website-bed68",
+      storageBucket: "personal-website-bed68.appspot.com",
+      messagingSenderId: "82468186782",
+      appId: "1:82468186782:web:a2fa1f758d3010ecde698f",
+      measurementId: "G-658Y4ZK5NR"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
+  </script>
+
   </body>
 </html>
