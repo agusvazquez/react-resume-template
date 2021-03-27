@@ -158,13 +158,13 @@
     "projects": [
       {
         "title":"Scholly Search",
-        "category":"My Travel Blog for my post-university travels",
+        "category":"Scholly takes the hassle out of the scholarship search process.",
         "image":"schollysearch.jpg",
         "url":"https://myscholly.com/search/"
       },
       {
         "title":"Scholly Math",
-        "category":"Scholly Math is an AI-powered math solver that instantly interprets and solves any type of math problem, from basic arithmetic to complex calculus proofs.",
+        "category":"Scholly Math is an AI-powered math solver that interprets and solves any type of math problem.",
         "image":"schollymath.jpg",
         "url":"https://myscholly.com/math/"
       },
@@ -182,7 +182,7 @@
       },
       {
         "title":"Fairmarket Home",
-        "category":"Fairmarket is a revolutionary platform for homeowners and contractors. However, it is not just a platform - it is a powerful full-range, deeply personalized home improvement, and management app, the first of its kind.",
+        "category":"Fairmarket is a revolutionary platform for homeowners and contractors.",
         "image":"fairmarket.jpg",
         "url":"https://fairmarkethome.com/"
       }
