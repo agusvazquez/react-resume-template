@@ -2,7 +2,7 @@
   "main": {
     "name":"Agustin Vazquez",
     "occupation":"React Native Developer",
-    "description":"My desire is to improve the way of living of people by developing innovative mobile products",
+    "description":"My personal goal is to improve the way of living of people by creating innovative mobile products",
     "image":"profilepic.jpg",
     "bio":"I started mobile development back on 2011, when only a native approach (Java / Obj-C) was possible for building mobile apps. On 2018 I discovered React Native and continued working until today. During my career, I have also worked with databases, AWS, APIs and small websites (this site is hosted in AWS using a cloudfront and static website in S3). In my free time I like playing soccer and videogames with friends and also cooking.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -157,34 +157,34 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
+        "title":"Scholly Search",
         "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "image":"schollysearch.jpg",
+        "url":"https://myscholly.com/search/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Scholly Math",
+        "category":"Scholly Math is an AI-powered math solver that instantly interprets and solves any type of math problem, from basic arithmetic to complex calculus proofs.",
+        "image":"schollymath.jpg",
+        "url":"https://myscholly.com/math/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Toyboy Warehouse",
+        "category":"Toyboy Warehouse is the UK’s largest cougar dating app for older women and younger men.",
+        "image":"toyboywarehouse.jpg",
+        "url":"https://toyboywarehouse.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"We Cover",
+        "category":"Secures your goods such as your bicycle, phone, or car via We Cover.",
+        "image":"wecover.jpg",
+        "url":"https://wecover.co/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Fairmarket Home",
+        "category":"Fairmarket is a revolutionary platform for homeowners and contractors. However, it is not just a platform - it is a powerful full-range, deeply personalized home improvement, and management app, the first of its kind.",
+        "image":"fairmarket.jpg",
+        "url":"https://fairmarkethome.com/"
       }
     ]
   },
