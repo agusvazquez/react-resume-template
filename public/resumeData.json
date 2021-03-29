@@ -20,26 +20,37 @@
       {
         "name":"facebook",
         "url":"https://www.facebook.com/agustin.vazquez.75",
-        "className":"fa fa-facebook"
+        "class": "fab",
+        "icon": "facebook"
       },
       {
         "name":"twitter",
         "url":"http://twitter.com/agusssvazquez",
-        "className":"fa fa-twitter"
+        "class": "fab",
+        "icon": "twitter"
       },{
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/agustinvazquez/",
-        "className":"fa fa-linkedin"
+        "class": "fab",
+        "icon": "linkedin"
       },
       {
         "name":"instagram",
         "url":"https://www.instagram.com/agussvazquez/",
-        "className":"fa fa-instagram"
+        "class": "fab",
+        "icon": "instagram"
       },
       {
         "name":"github",
         "url":"http://github.com/agusvazquez",
-        "className":"fa fa-github"
+        "class": "fab",
+        "icon": "github"
+      },
+      {
+        "name":"toptal",
+        "url":"https://www.toptal.com/resume/agustin-vazquez",
+        "class": "fas",
+        "icon": "laptop-code"
       }
     ]
   },
