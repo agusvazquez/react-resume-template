@@ -1,213 +1,218 @@
 {
   "main": {
-    "name":"Agustin Vazquez",
-    "occupation":"React Native Developer",
-    "description":"My personal goal is to improve the way of living of people by creating innovative mobile products",
-    "image":"profilepic.jpg",
-    "bio":"I started mobile development back on 2011, when only a native approach (Java / Obj-C) was possible for building mobile apps. On 2018 I discovered React Native and continued working until today. During my career, I have also worked with databases, AWS, APIs and small websites (this site is hosted in AWS using a cloudfront and static website in S3). In my free time I like playing soccer/videogames with friends and also cooking.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "name": "Agustin Vazquez",
+    "occupation": "React Native Developer",
+    "description": "My personal goal is to improve the way of living of people by creating innovative mobile products",
+    "image": "profilepic.jpg",
+    "bio": "I started mobile development back on 2011, when only a native approach (Java / Obj-C) was possible for building mobile apps. On 2018 I discovered React Native and continued working until today. During my career, I have also worked with databases, AWS, APIs and small websites (this site is hosted in AWS using a cloudfront and static website in S3). In my free time I like playing soccer/videogames with friends and also cooking.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "aguss.vazquez@gmail.com",
     "phone": "-",
-    "address":{
-      "street":"Almagro",
-      "city":"Buenos Aires",
-      "state":"Argentina",
+    "address": {
+      "street": "Almagro",
+      "city": "Buenos Aires",
+      "state": "Argentina",
       "zip": "1175"
     },
     "website": "http://www.agustinvazquez.com",
-    "resumedownload":"https://docs.google.com/document/d/1WrYOtME9T8AbNlqMEVVUaxxDuXbIj4Y-EZo47g3rvJM/edit?usp=sharing",
-    "social":[
+    "resumedownload": "https://docs.google.com/document/d/1WrYOtME9T8AbNlqMEVVUaxxDuXbIj4Y-EZo47g3rvJM/edit?usp=sharing",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/agustin.vazquez.75",
+        "name": "facebook",
+        "url": "https://www.facebook.com/agustin.vazquez.75",
         "class": "fab",
         "icon": "facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com/agusssvazquez",
+        "name": "twitter",
+        "url": "http://twitter.com/agusssvazquez",
         "class": "fab",
         "icon": "twitter"
-      },{
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/agustinvazquez/",
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/agustinvazquez/",
         "class": "fab",
         "icon": "linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/agussvazquez/",
+        "name": "instagram",
+        "url": "https://www.instagram.com/agussvazquez/",
         "class": "fab",
         "icon": "instagram"
       },
       {
-        "name":"github",
-        "url":"http://github.com/agusvazquez",
+        "name": "github",
+        "url": "http://github.com/agusvazquez",
         "class": "fab",
         "icon": "github"
       },
       {
-        "name":"toptal",
-        "url":"https://www.toptal.com/resume/agustin-vazquez",
+        "name": "toptal",
+        "url": "https://www.toptal.com/resume/agustin-vazquez",
         "class": "fas",
         "icon": "laptop-code"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"My focus is primarily on mobile, but also have skills in other areas.",
-    "education":[
+  "resume": {
+    "skillmessage": "My focus is primarily on mobile, but also have skills in other areas.",
+    "education": [
       {
-        "school":"Universidad Tecnológica Nacional",
-        "degree":"Project Manager Expert",
-        "graduated":"2017",
-        "description":"",
+        "school": "Universidad Tecnológica Nacional",
+        "degree": "Project Manager Expert",
+        "graduated": "2017",
+        "description": "",
         "website": "https://www.frba.utn.edu.ar/"
       },
       {
-        "school":"Universidad de Buenos Aires",
-        "degree":"Software Engineering",
-        "graduated":"16 assignatures passed",
-        "description":"",
+        "school": "Universidad de Buenos Aires",
+        "degree": "Software Engineering",
+        "graduated": "16 assignatures passed",
+        "description": "",
         "website": "http://www.fi.uba.ar/"
       },
       {
-        "school":"High School ORT",
-        "degree":"Information and Communication Technology",
-        "graduated":"2007",
-        "description":"",
+        "school": "High School ORT",
+        "degree": "Information and Communication Technology",
+        "graduated": "2007",
+        "description": "",
         "website": "https://www.ort.edu.ar/"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Toptal",
-        "title":"React Native Developer",
-        "years":"January 2019 – Present",
-        "description":"As a react native developer, my job is to build mobile products. Most of them required bridging native code with react native. Check my resume for more information.",
+        "company": "Toptal",
+        "title": "React Native Developer",
+        "years": "January 2019 – Present",
+        "description": "As a react native developer, my job is to build mobile products. Most of them required bridging native code with react native. Check my resume for more information.",
         "website": "https://www.toptal.com/resume/agustin-vazquez"
       },
       {
-        "company":"Freelance",
-        "title":"Mobile Developer",
-        "years":"August 2018 – January 2019",
-        "description":"Built a prototype for a startup based in the Netherlands using React Native, and by using AI and OpenGL it could detect health emergencies."
+        "company": "Freelance",
+        "title": "Mobile Developer",
+        "years": "August 2018 – January 2019",
+        "description": "Built a prototype for a startup based in the Netherlands using React Native, and by using AI and OpenGL it could detect health emergencies."
       },
       {
-        "company":"Paisanos Creando",
-        "title":"Founder / Technology Director",
-        "years":"June 2012 – July 2018",
+        "company": "Paisanos Creando",
+        "title": "Founder / Technology Director",
+        "years": "June 2012 – July 2018",
         "description": "Started my own software development company based in Buenos Aires. Worked on countless of projects using Android, iOS, React Native, Spring Framework, IOT, etc. Just can't describe 6 years working here in a few lines. Please check my resume for more info.",
         "website": "https://www.paisanoscreando.com/"
       },
       {
-        "company":"Fyrastudio",
-        "title":"Java Android / IOs Developer",
-        "years":"May 2012 – September 2013",
+        "company": "Fyrastudio",
+        "title": "Java Android / IOs Developer",
+        "years": "May 2012 – September 2013",
         "description": "Developed a mobile game that detected phone shakes, GPS, compass, accelerometers, camera (QR bars) and bluetooth.",
         "website": "http://fyrastudio.com/en/home/"
       },
       {
-        "company":"Freelance - Startup",
-        "title":"Java Android Developer",
-        "years":"November 2011 – August 2012",
-        "description":"Created my first and own mobile product (App + API) that showed the roadblocks of my city, similar to Waze—ultimately reaching over 50,000 users. Unfortunately, when Waze arrived in Buenos Aires my project lost almost all of their users."
+        "company": "Freelance - Startup",
+        "title": "Java Android Developer",
+        "years": "November 2011 – August 2012",
+        "description": "Created my first and own mobile product (App + API) that showed the roadblocks of my city, similar to Waze—ultimately reaching over 50,000 users. Unfortunately, when Waze arrived in Buenos Aires my project lost almost all of their users."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"React Native",
-        "level":"95%"
+        "name": "React Native",
+        "level": "95%"
       },
       {
-        "name":"Android",
-        "level":"90%"
+        "name": "Android",
+        "level": "90%"
       },
       {
-        "name":"iOS",
-        "level":"85%"
+        "name": "iOS",
+        "level": "85%"
       },
       {
-        "name":"CI/CD (Bitrise)",
-        "level":"95%"
+        "name": "CI/CD (Bitrise)",
+        "level": "95%"
       },
       {
-        "name":"Automated Testing",
-        "level":"80%"
+        "name": "Web React JS",
+        "level": "50%"
       },
       {
-        "name":"Firebase",
-        "level":"95%"
+        "name": "Automated Testing",
+        "level": "80%"
       },
       {
-        "name":"Spring Framework",
-        "level":"60%"
+        "name": "Firebase",
+        "level": "95%"
       },
       {
-        "name":"AWS",
-        "level":"30%"
+        "name": "Spring Framework",
+        "level": "60%"
       },
       {
-        "name":"MySQL",
-        "level":"50%"
+        "name": "AWS",
+        "level": "30%"
       },
       {
-        "name":"GIT",
-        "level":"70%"
+        "name": "MySQL",
+        "level": "50%"
       },
       {
-        "name":"Project Management - Scrum",
-        "level":"40%"
+        "name": "GIT",
+        "level": "70%"
       },
       {
-        "name":"Unity 3D",
-        "level":"40%"
+        "name": "Project Management - Scrum",
+        "level": "40%"
+      },
+      {
+        "name": "Unity 3D",
+        "level": "40%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Scholly Search",
-        "category":"Scholly takes the hassle out of the scholarship search process.",
-        "image":"schollysearch.jpg",
-        "url":"https://myscholly.com/search/"
+        "title": "Scholly Search",
+        "category": "Scholly takes the hassle out of the scholarship search process.",
+        "image": "schollysearch.jpg",
+        "url": "https://myscholly.com/search/"
       },
       {
-        "title":"Scholly Math",
-        "category":"Scholly Math is an AI-powered math solver that interprets and solves any type of math problem.",
-        "image":"schollymath.jpg",
-        "url":"https://myscholly.com/math/"
+        "title": "Scholly Math",
+        "category": "Scholly Math is an AI-powered math solver that interprets and solves any type of math problem.",
+        "image": "schollymath.jpg",
+        "url": "https://myscholly.com/math/"
       },
       {
-        "title":"Toyboy Warehouse",
-        "category":"Toyboy Warehouse is the UK’s largest cougar dating app for older women and younger men.",
-        "image":"toyboywarehouse.jpg",
-        "url":"https://toyboywarehouse.com/"
+        "title": "Toyboy Warehouse",
+        "category": "Toyboy Warehouse is the UK’s largest cougar dating app for older women and younger men.",
+        "image": "toyboywarehouse.jpg",
+        "url": "https://toyboywarehouse.com/"
       },
       {
-        "title":"We Cover",
-        "category":"Secures your goods such as your bicycle, phone, or car via We Cover.",
-        "image":"wecover.jpg",
-        "url":"https://wecover.co/"
+        "title": "We Cover",
+        "category": "Secures your goods such as your bicycle, phone, or car via We Cover.",
+        "image": "wecover.jpg",
+        "url": "https://wecover.co/"
       },
       {
-        "title":"Fairmarket Home",
-        "category":"Fairmarket is a revolutionary platform for homeowners and contractors.",
-        "image":"fairmarket.jpg",
-        "url":"https://fairmarkethome.com/"
+        "title": "Fairmarket Home",
+        "category": "Fairmarket is a revolutionary platform for homeowners and contractors.",
+        "image": "fairmarket.jpg",
+        "url": "https://fairmarkethome.com/"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
       }
     ]
   }
