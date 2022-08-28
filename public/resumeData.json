@@ -174,6 +174,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Fetch AI",
+        "category": "Fetch.ai helps you share or find local experiences, restaurants, connect with locals and more in a new city.",
+        "image": "fetchai.jpg",
+        "url": "https://fetch.ai/download"
+      },
+      {
         "title": "Scholly Search",
         "category": "Scholly takes the hassle out of the scholarship search process.",
         "image": "schollysearch.jpg",
